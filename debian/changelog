@@ -1,0 +1,23 @@
+astute (6.1.0-1) trusty; urgency=low
+
+  * Update version to 6.1.0
+
+ -- Matthew Mosesohn <mmosesohn@miirantis.com> Wed, 22 Apr 2015 14:44:00 +0300
+
+astute (6.0.0-1) trusty; urgency=low
+
+  * Update code from upstream
+
+ -- Igor Kalnitsky <ikalnitsky@mirantis.com>  Wed, 26 Nov 2014 19:49:00 +0200
+
+astute (0.0.1-ubuntu1) precise; urgency=low
+
+  * Update code from upstream
+
+ -- OSCI Jenkins <dburmistrov@mirantis.com>  Wed, 03 Sep 2014 15:20:13 +0400
+
+astute (0.0.1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Mirantis Product <product@mirantis.com>  Tue, 20 Aug 2013 22:20:46 +0400 
